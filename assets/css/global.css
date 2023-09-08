@@ -10,6 +10,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
+  background-color: #f6f8fc;
 }
 
 a {
@@ -18,4 +19,20 @@ a {
 
 a:hover {
   cursor: pointer;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 992px) {
+  .content {
+      max-width: 992px;
+      height: auto;
+      margin: 1rem auto;
+      border-radius: 1rem;
+  }
 }
