@@ -12,7 +12,7 @@
   <a href="https://jonasmzsouza.github.io/dio-js-pokedex" target="_blank">
     <img src="https://img.shields.io/static/v1?label=:&message=website&color=212529&style=for-the-badge&logo=github&logo-color=white"/>
   </a>
-  <img  src="https://raw.githubusercontent.com/jonasmzsouza/jonasmzsouza.github.io/main/assets/images/dio-js-pokedex.jpg"  width="100%"  alt="screenshot vue vagas">
+  <img  src="https://raw.githubusercontent.com/jonasmzsouza/jonasmzsouza.github.io/main/assets/images/dio-js-pokedex.jpg"  width="100%"  alt="screenshot dio js pokedex">
 </p>
 <hr>
 
