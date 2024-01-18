@@ -7,7 +7,7 @@ const maxRecords = 1281;
 function convertPokemonToLi(pokemon) {
   return `
     <li class="pokemon ${pokemon.mainType}">
-      <span class="number">#${pokemon.id}</span>
+      <span class="number">#${pokemon.order}</span>
       <span class="name">${pokemon.name}</span>
 
       <div class="detail">
